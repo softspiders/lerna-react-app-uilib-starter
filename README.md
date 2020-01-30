@@ -6,6 +6,12 @@ SOFTSPIDERS
 
 ---
 
+## Direct ancestors
+
+[Starter for Lerna monorepo](https://github.com/softspiders/lerna)
+
+---
+
 ## Feature tags
 
 - lerna
@@ -21,12 +27,6 @@ SOFTSPIDERS
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin) - Adapting the [react-lib-starter](https://github.com/antonybudianto/react-lib-starter) to *Soft Spiders*
-
----
-
-## Direct ancestors
-
-[Starter for Lerna monorepo](https://github.com/softspiders/lerna)
 
 ---
 
