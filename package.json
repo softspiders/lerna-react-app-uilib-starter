@@ -21,8 +21,6 @@
     "clean": "lerna clean",
     "clean:build": "lerna exec -- rimraf lib",
     "build": "lerna run build",
-    "prerelease": "npm run build",
-    "release": "lerna publish",
     "test": "exit 0"
   },
   "bugs": {

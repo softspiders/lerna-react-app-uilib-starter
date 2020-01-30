@@ -63,12 +63,9 @@ UNDER DEVELOPMENT
 5. Now, you can start developing your React library!
 
 ## Prod flow
-1. Make sure you've commited all the changes
-2. Change dir to root of this repo
-3. Run release (it will run `npm run build` first via `prerelease` hook)
-   ```sh
-   npm run release
-   ```
+
+TBD
+
 ---
 
 ### License
