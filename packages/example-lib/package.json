@@ -1,0 +1,47 @@
+{
+  "name": "example-lib",
+  "version": "0.0.1",
+  "description": "Example lib",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "start": "better-npm-run start",
+    "build": "better-npm-run build",
+    "test": "exit 0"
+  },
+  "betterScripts": {
+    "start": {
+      "command": "react-lib-scripts start",
+      "env": {
+        "NODE_ENV": "development"
+      }
+    },
+    "build": {
+      "command": "react-lib-scripts build",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.13",
+    "better-npm-run": "^0.1.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-lib-scripts": "^0.0.14"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.6"
+  }
+}
