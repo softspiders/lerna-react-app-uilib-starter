@@ -11,15 +11,16 @@ SOFTSPIDERS
 - lerna
 - lib
 - react
+- spa
 - starter
-
-## Authors
-
-[Alexander Lapygin](https://github.com/AlexanderLapygin) - adaptation [react-lib-starter](https://github.com/antonybudianto/react-lib-starter) to *Soft Spiders*
 
 ## Inspired by
 
 [Antony Budianto](https://github.com/antonybudianto)'s [react-lib-starter](https://github.com/antonybudianto/react-lib-starter)
+
+## Authors
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin) - Adapting the [react-lib-starter](https://github.com/antonybudianto/react-lib-starter) to *Soft Spiders*
 
 ---
 
