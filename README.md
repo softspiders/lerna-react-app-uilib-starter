@@ -6,12 +6,6 @@ SOFTSPIDERS
 
 ---
 
-## Direct ancestors
-
-[Starter for Lerna monorepo](https://github.com/softspiders/lerna)
-
----
-
 ## Feature tags
 
 - lerna
@@ -19,6 +13,14 @@ SOFTSPIDERS
 - react
 - spa
 - starter
+
+---
+
+## Direct ancestors
+
+[Starter for Lerna monorepo](https://github.com/softspiders/lerna)
+
+---
 
 ## Inspired by
 
