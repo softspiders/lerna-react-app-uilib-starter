@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/softspiders/lerna-react-lib-starter/blob/master/README.md",
   "devDependencies": {
-    "lerna": "^3.18.3",
+    "lerna": "^2.11.0",
     "rimraf": "^3.0.1"
   }
 }
