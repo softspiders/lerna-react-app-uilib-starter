@@ -1,7 +1,5 @@
 SOFTSPIDERS
 
-UNDER DEVELOPMENT
-
 # lerna-react-lib-starter
 
 [React](https://reactjs.org/) application starter with library in [Lerna](https://lerna.js.org/) monorepo
@@ -17,7 +15,7 @@ UNDER DEVELOPMENT
 
 ## Authors
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+[Alexander Lapygin](https://github.com/AlexanderLapygin) - adaptation [react-lib-starter](https://github.com/antonybudianto/react-lib-starter) to *Soft Spiders*
 
 ## Inspired by
 
@@ -25,7 +23,13 @@ UNDER DEVELOPMENT
 
 ---
 
-## How to use
+## Direct ancestors
+
+[Starter for Lerna monorepo](https://github.com/softspiders/lerna)
+
+---
+
+## Install
 1. Clone this repo
 2. Install dependencies
    ```sh
@@ -60,25 +64,7 @@ UNDER DEVELOPMENT
    ```sh
    npm run release
    ```
-
-## Direct ancestors
-
-[Minimalistic starter for Lerna monorepo](https://github.com/softspiders/lerna)
-
-
-## Install
-
-Being at the root, execute
-
-```
-npm run bootstrap
-```
-
 ---
-
-## Run
-
-TBD
 
 ### License
 
