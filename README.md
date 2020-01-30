@@ -15,6 +15,19 @@ UNDER DEVELOPMENT
 - react
 - starter
 
+---
+
+## Authors
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+## Inspired by
+
+[Antony Budianto](https://github.com/antonybudianto)'s [react-lib-starter](https://github.com/antonybudianto/react-lib-starter)
+
+
+---
+
 ## Direct ancestors
 
 [Minimalistic starter for Lerna monorepo](https://github.com/softspiders/lerna)
@@ -31,7 +44,7 @@ npm install --global lerna
 Being at the root, execute
 
 ```
-lerna bootstrap
+npm run bootstrap
 ```
 
 ---
@@ -87,13 +100,6 @@ lerna init
 
 Under */packages* directory create arbitrary number of packages: */packages/package-1*, */packages/package-2* and so
 on, each of them - with correspondent *package.json* description file.
-
----
-
-
-## Authors
-
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
 
 ---
 

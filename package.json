@@ -1,12 +1,12 @@
 {
-  "name": "root",
+  "name": "lerna-react-lib-starter",
   "version": "1.0.0",
-  "description": "Minimal template for Lerna Monorepo",
-  "repository": "https://github.com/softspider/lerna-hw",
+  "description": "Minimalistic starter of React application with library in Lerna monorepo",
+  "repository": "https://github.com/softspiders/lerna-react-lib-starter",
   "author": "Alexander Lapygin",
   "license": "MIT",
   "scripts": {
-    "some-command": "lerna run some-command"
+    "bootstrap": "lerna bootstrap"
   },
   "devDependencies": {
     "lerna": "^3.18.3"
