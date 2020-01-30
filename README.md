@@ -4,6 +4,8 @@ SOFTSPIDERS
 
 Minimalistic starter of [React](https://reactjs.org/) application with library in [Lerna](https://lerna.js.org/) monorepo
 
+UNDER DEVELOPMENT
+
 ---
 
 ## Feature tags
