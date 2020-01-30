@@ -1,28 +1,23 @@
 SOFTSPIDERS
 
-# lerna
+# lerna-react-lib-starter
 
-Minimalistic template for [Lerna](https://lerna.js.org/)
+Minimalistic starter of [React](https://reactjs.org/) application with library in [Lerna](https://lerna.js.org/) monorepo
 
 ---
 
 ## Feature tags
 
-- helloworld
 - lerna
-- nodejs
-- template
+- lib
+- react
+- starter
 
-## Direct descendants
-- [Minimalistic template for NextJS application with library in Lerna monorepo](https://github.com/softspiders/lerna-next-with-lib)
-- [Minimalistic CRA in TypeScript with UiLib and Storybook in Lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
-- [Minimalistic CRA in TypeScript with UiLib, Storybook and Storyshots in Lerna](https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna)
-- [Minimalistic React app in TypeScript with UiLib and Storybook in Lerna and building war by Maven](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war)
+## Direct ancestors
+
+[Minimalistic starter for Lerna monorepo](https://github.com/softspiders/lerna)
 
 ---
-
-
-## Lerna installation
 
 ```
 npm install --global lerna
