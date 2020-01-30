@@ -1,14 +1,36 @@
 {
   "name": "lerna-react-lib-starter",
   "version": "1.0.0",
-  "description": "Minimalistic starter of React application with library in Lerna monorepo",
+  "description": "React application starter with library in Lerna monorepo",
+  "main": "index.js",
+  "private": true,
   "repository": "https://github.com/softspiders/lerna-react-lib-starter",
-  "author": "Alexander Lapygin",
+  "keywords": [
+    "react",
+    "lerna",
+    "lib",
+    "monorepo",
+    "softspiders",
+    "starter",
+    "template"
+  ],
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "bootstrap": "lerna bootstrap"
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean",
+    "clean:build": "lerna exec -- rimraf lib",
+    "build": "lerna run build",
+    "prerelease": "npm run build",
+    "release": "lerna publish",
+    "test": "exit 0"
   },
+  "bugs": {
+    "url": "https://github.com/softspiders/lerna-react-lib-starter/issues"
+  },
+  "homepage": "https://github.com/softspiders/lerna-react-lib-starter/blob/master/README.md",
   "devDependencies": {
-    "lerna": "^3.18.3"
+    "lerna": "^3.18.3",
+    "rimraf": "^3.0.1"
   }
 }
