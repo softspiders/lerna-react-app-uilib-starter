@@ -1,1 +1,1 @@
-export * from './MyHelloView/LibComponent';
+export * from './LibComponent';
