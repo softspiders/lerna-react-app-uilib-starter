@@ -1,10 +1,9 @@
 SOFTSPIDERS
+UNDER DEVELOPMENT
 
 # lerna-react-lib-starter
 
 [React](https://reactjs.org/) application starter with library in [Lerna](https://lerna.js.org/) monorepo
-
-UNDER DEVELOPMENT
 
 ---
 
