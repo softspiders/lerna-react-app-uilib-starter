@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { JFrontHelloView } from 'example-lib';
+import { LibComponent } from 'example-lib';
 
 import logo from './logo.svg';
 import './App.css';
@@ -9,15 +9,15 @@ class App extends Component {
     return (
       <div className="App">
         <p className="App-intro">
-          To get started, edit <code>App.js</code> or <code>JFrontHelloView.js</code> and save to reload.
+          To get started, edit <code>App.js</code> or <code>LibComponent.js</code> and save to reload.
         </p>
         <div style={{
           display: 'flex',
           justifyContent: 'center'
         }}>
-          <JFrontHelloView>
+          <LibComponent>
             Content from app!!!
-          </JFrontHelloView>
+          </LibComponent>
         </div>
       </div>
     );

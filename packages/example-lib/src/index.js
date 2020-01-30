@@ -1,1 +1,1 @@
-export * from './MyHelloView/JFrontHelloView';
+export * from './MyHelloView/LibComponent';
