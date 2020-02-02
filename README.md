@@ -51,17 +51,13 @@ UNDER DEVELOPMENT
 4. Now, it's ready!
 
 ## Dev flow
-1. Change dir to `packages/example-lib`
-2. Run start
+1. Run start
    ```sh
-   npm start
+   npm run start:dev:lib
+   npm run start:dev:app
    ```
-3. Change dir to `packages/example-app`
-   ```sh
-   npm start
-   ```
-4. Try changing the lib, it should reflect the changes directly
-5. Now, you can start developing your React library!
+2. Try changing the lib, it should reflect the changes directly
+3. Now, you can start developing your React library!
 
 ## Prod flow
 

@@ -1,7 +1,7 @@
 {
-  "name": "lerna-react-lib-starter",
+  "name": "lerna-react-app-uilib-starter",
   "version": "1.0.0",
-  "description": "React application starter with library in Lerna monorepo",
+  "description": "React application starter with ui library in Lerna monorepo",
   "main": "index.js",
   "private": true,
   "repository": "https://github.com/softspiders/lerna-react-lib-starter",
@@ -18,6 +18,8 @@
   "license": "MIT",
   "scripts": {
     "bootstrap": "lerna bootstrap",
+    "start:dev:lib": "cd packages/example-lib && npm start --stream",
+    "start:dev:app": "cd packages/example-app && npm start --stream",
     "clean": "lerna clean",
     "clean:build": "lerna exec -- rimraf lib",
     "build": "lerna run build",
