@@ -2,7 +2,7 @@ SOFTSPIDERS
 
 UNDER DEVELOPMENT
 
-# lerna-react-lib-starter
+# lerna-react-app-uilib-starter
 
 [React](https://reactjs.org/) application starter with library in [Lerna](https://lerna.js.org/) monorepo
 
@@ -10,8 +10,9 @@ UNDER DEVELOPMENT
 
 ## Feature tags
 
+- app
 - lerna
-- lib
+- uilib
 - react
 - spa
 - starter
