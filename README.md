@@ -24,6 +24,11 @@ UNDER DEVELOPMENT
 
 [Starter for Lerna monorepo](https://github.com/softspiders/lerna)
 
+## Direct descendants
+
+[lerna-react-app-uilib-war-starter](https://github.com/softspiders/lerna-react-app-uilib-war-starter)
+
+
 ---
 
 ## Inspired by
