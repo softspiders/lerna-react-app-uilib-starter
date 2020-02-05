@@ -11,6 +11,7 @@ UNDER DEVELOPMENT
 ## Feature tags
 
 - app
+- build
 - lerna
 - uilib
 - react
