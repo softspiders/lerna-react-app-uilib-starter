@@ -1,7 +1,5 @@
 SOFTSPIDERS
 
-UNDER DEVELOPMENT
-
 # lerna-react-app-uilib-starter
 
 [React](https://reactjs.org/) application starter with ui library in [Lerna](https://lerna.js.org/) monorepo
