@@ -13,10 +13,10 @@ UNDER DEVELOPMENT
 - app
 - build
 - lerna
-- uilib
 - react
 - spa
 - starter
+- uilib
 
 ---
 
@@ -64,10 +64,6 @@ UNDER DEVELOPMENT
    ```
 2. Try changing the lib, it should reflect the changes directly
 3. Now, you can start developing your React library!
-
-## Prod flow
-
-TBD
 
 ---
 
