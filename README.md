@@ -20,7 +20,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[Starter for Lerna monorepo](https://github.com/softspiders/lerna)
+[Minimalistic JS library development environment on Lerna](https://github.com/softspiders/lerna-lib-app-starter)
 
 ## Direct descendants
 
