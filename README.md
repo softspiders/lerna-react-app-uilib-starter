@@ -20,7 +20,7 @@
 
 ## Direct ancestors
 
-[Minimalistic JS library development environment on Lerna](https://github.com/softspiders/lerna-lib-app-starter)
+[-react, uilib](https://github.com/softspiders/lerna-lib-app-starter)
 
 ## Direct descendants
 
