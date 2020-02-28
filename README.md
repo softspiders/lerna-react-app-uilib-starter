@@ -24,8 +24,8 @@
 
 ## Direct descendants
 
-[+war](https://github.com/softspiders/lerna-react-app-uilib-war-starter)
-[+storybook](https://github.com/Jepria/react-lib-storybook-lerna-starter)
+- [+war](https://github.com/softspiders/lerna-react-app-uilib-war-starter)
+- [+storybook](https://github.com/Jepria/react-lib-storybook-lerna-starter)
 
 ---
 
