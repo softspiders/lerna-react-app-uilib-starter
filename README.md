@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # lerna-react-app-uilib-starter
 
