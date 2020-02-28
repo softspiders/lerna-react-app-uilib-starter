@@ -20,12 +20,12 @@
 
 ## Direct ancestors
 
-[-react, uilib](https://github.com/softspiders/lerna-lib-app-starter)
+[-react, uilib: *lerna-lib-app-starter*](https://github.com/softspiders/lerna-lib-app-starter)
 
 ## Direct descendants
 
-- [+war](https://github.com/softspiders/lerna-react-app-uilib-war-starter)
-- [+storybook](https://github.com/Jepria/react-lib-storybook-lerna-starter)
+- [+war: *lerna-react-app-uilib-war-starter*](https://github.com/softspiders/lerna-react-app-uilib-war-starter)
+- [+storybook: *react-lib-storybook-lerna-starter*](https://github.com/Jepria/react-lib-storybook-lerna-starter)
 
 ---
 
